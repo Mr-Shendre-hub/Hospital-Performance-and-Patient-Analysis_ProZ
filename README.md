@@ -1,12 +1,12 @@
-#Hospital Performance and Patient Analysis Dashboard
+**Hospital Performance and Patient Analysis Dashboard**
 
 HealthCare_BI_ProZ — Project by © 2025 Siddharth R Shendre
 
-#Overview
+**Overview**
 
 This project provides an in-depth analysis of hospital performance and patient outcomes through Power BI. It integrates key healthcare metrics such as patient satisfaction, treatment success rate, readmission patterns, and hospital efficiency to deliver actionable insights for performance improvement and resource optimization.
 
-#Structure
+**Structure**
 
 HealthCare_BI_ProZ/
 ├── healthcare_dataset.xlsx
@@ -18,7 +18,7 @@ HealthCare_BI_ProZ/
 │   └── DAX_MEASURES.docx
 └── Dashboard_Preview/
 
-#Highlights
+**Highlights**
 
 - Total Patients Analyzed: 10,000
 - Average Treatment Success Rate: 89%
@@ -27,18 +27,18 @@ HealthCare_BI_ProZ/
 - Top Performing Department: Cardiology
 - Key Metrics built using custom DAX measures and KPI indicators
 
-#How to Reproduce
+**How to Reproduce**
 
 1. Open the dataset file "healthcare_dataset.xlsx" to review data preparation and transformation.
 2. Load "HealthCare_BI_ProZ.pbix" in Power BI Desktop to explore the dashboard.
 3. Review "Docs/DAX_MEASURES.docx" for the complete list of DAX calculations used.
 4. Refer to "Docs/Project_Summary_and_Findings.docx" for key insights and conclusions.
 
-#Tools & Techniques
+**Tools & Techniques**
 
 Excel, Power BI, DAX, Data Cleaning, KPI Analysis, and Visual Dashboard Design.
 
-#Contact
+**Contact**
 
 © 2025 Siddharth R Shendre
 Email: shendresiddarth@gmail.com
